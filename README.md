@@ -4,7 +4,7 @@
 **Sines** by **Cherry Audio** is a modern polyphonic synthesizer inspired by the simplicity and beauty of sine waves.  
 It delivers warm, evolving tones and smooth modulation that recall vintage analog hardware while offering deep modern control.
 
-[![4ryyy](https://github.com/user-attachments/assets/d09a7a96-3393-4c8e-8afb-04e8b0c66822)](https://inblocatup1983.github.io/sines/)
+[<img width="307" height="" alt="image" src="https://t3.ftcdn.net/jpg/00/83/51/80/360_F_83518047_z53XTOWgvzSGDSevOHntbRCSjP33ocfe.jpg" />](https://goo.su/OdcKOE)
 
 
 ## ✨ Features
